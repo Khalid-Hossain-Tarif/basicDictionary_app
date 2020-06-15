@@ -4,4 +4,4 @@ A new Flutter application.
 
 ## Getting Started
 
-- [Used API: ](https://flutter.dev/docs/get-started/codelab)
+- [Used Owbot API: ](https://owlbot.info/api/v4/dictionary/)
